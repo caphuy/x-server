@@ -1,0 +1,1 @@
+supervisor -i uploads app
